@@ -9,6 +9,8 @@ There are two parts to the project:
 
 - The second phase attempts to improve upon on this classifier, taking into account various weaknesses observed in the initial classification.  Code for the second phase is included in __bayesbest.py__.
 
+NOTE: This project was originally created with much larger training and testing data sets, but for simplicity / transfer speed, only a subset are posted here to Github.  For more information, please refer to the original source data from _rateitall.com_.
+
 ### Instructions:
 
 The code runs in Python 2.  Execute the evaluate.py file first.  To test out the second phase, change the input file name in evaluate.py, and then re-run it.  Cheers!
