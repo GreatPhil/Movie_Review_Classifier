@@ -13,4 +13,4 @@ NOTE: This project was originally created with much larger training and testing 
 
 ### Instructions:
 
-The code runs in Python 2.  Execute the evaluate.py file first.  To test out the second phase, change the input file name in evaluate.py, and then re-run it.  Cheers!
+The code runs in Python 2.7.  Execute the evaluate.py file first.  To test out the second phase, change the input file name in evaluate.py, and then re-run it.  Cheers!
