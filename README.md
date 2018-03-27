@@ -1,5 +1,5 @@
 # Movie_Review_Classifier
-This project examines the creation and tuning of a Naive Bayes Classifier that trains on movie review (and other review) logs collected from _www.rateitall.com_.  The movies are now a few years old, but the same approach could be used on any similar movie data set -- regardless of the the movie vintage.  This was written as a HW assignment for CS510 (Artificial Intelligence) @ Drexel University, Fall 2018.
+This project examines the creation and tuning of a Naive Bayes Classifier that trains on movie review (and other review) logs collected from _www.rateitall.com_.  The movies are now a few years old, but the same approach could be used on any similar movie data set -- regardless of the the movie vintage.  This was written as an assignment for CS510 (Artificial Intelligence) @ Drexel University, Fall 2018.
 
 ### Summary:
 
@@ -13,4 +13,4 @@ NOTE: This project was originally created with much larger training and testing 
 
 ### Instructions:
 
-The code runs in Python 2.7.  Execute the evaluate.py file first.  To test out the second phase, change the input file name in evaluate.py, and then re-run it.  Cheers!
+The code runs in Python 2.7.  Execute the __evaluate.py__ file, first.  To test out the second phase, change the input file name in __evaluate.py__, and then re-run it.  Cheers!
